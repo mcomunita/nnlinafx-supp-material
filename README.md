@@ -26,21 +26,26 @@ a large dataset for audio effects research - [ToneTwist AFx](https://github.com/
 that is also the first open to community contributions, evaluate models on a variety of metrics and conduct extensive subjective evaluation. 
 [Code](https://github.com/mcomunita/nablafx), [supplementary material and logs](https://github.com/mcomunita/nnlinafx-supp-material) are also available.
 
+## Code
+
+To coduct the study we developed and made use of the [NablAFx](https://github.com/mcomunita/nablafx) framework for differentiable black-box and gray-box audio effects modeling.
+
 ## Appendix
 
 The paper appendix with complete tables of results is available in this repo:
 [Appendix](https://github.com/mcomunita/nnlinafx-supp-material/blob/master/Differentiable_Black_box_and_Gray_box_Modeling_of_Nonlinear_Audio_Effects___Appendix___Arxiv.pdf)
 
+## Weights&Biases Logs
+
+Some (due to storage limits) logs for our experiments are made publicly available at the following links. Due to the large number of experiments and runs, we suggest to group runs by "Group"
+and filter by "Tags" to select for specific devices or architectures.
+
+- Overdrive: [https://wandb.ai/marco-comunita/nnlinafx-OD](https://wandb.ai/marco-comunita/nnlinafx-OD)
+- Distortion: [https://wandb.ai/marco-comunita/nnlinafx-DIST](https://wandb.ai/marco-comunita/nnlinafx-DIST)
+- Fuzz: [https://wandb.ai/mcomunita/nnlinafx-FUZZ](https://wandb.ai/mcomunita/nnlinafx-FUZZ)
+
 ## Citation
 
 ```BibTex
-@misc{comunità2025nablafxframeworkdifferentiableblackbox,
-      title={NablAFx: A Framework for Differentiable Black-box and Gray-box Modeling of Audio Effects}, 
-      author={Marco Comunità and Christian J. Steinmetz and Joshua D. Reiss},
-      year={2025},
-      eprint={2502.11668},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2502.11668}, 
-}
+@misc{}
 ```
