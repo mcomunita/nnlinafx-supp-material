@@ -26,6 +26,11 @@ a large dataset for audio effects research - [ToneTwist AFx](https://github.com/
 that is also the first open to community contributions, evaluate models on a variety of metrics and conduct extensive subjective evaluation. 
 [Code](https://github.com/mcomunita/nablafx), [supplementary material and logs](https://github.com/mcomunita/nnlinafx-supp-material) are also available.
 
+## Appendix
+
+The paper appendix with complete tables of results is available in this repo:
+[Appendix](https://github.com/mcomunita/nnlinafx-supp-material/blob/master/Differentiable_Black_box_and_Gray_box_Modeling_of_Nonlinear_Audio_Effects___Appendix___Arxiv.pdf)
+
 ## Citation
 
 ```BibTex
