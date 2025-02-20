@@ -28,7 +28,7 @@ that is also the first open to community contributions, evaluate models on a var
 
 ## Code
 
-To coduct the study we developed and made use of the [NablAFx](https://github.com/mcomunita/nablafx) framework for differentiable black-box and gray-box audio effects modeling.
+To conduct the study we developed and made use of the [NablAFx](https://github.com/mcomunita/nablafx) framework for differentiable black-box and gray-box audio effects modeling.
 
 ## Appendix
 
